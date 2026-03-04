@@ -17,7 +17,7 @@ Machine learning regression modeling
 
 Algorithm comparison and evaluation
 
-####2️⃣ Biological Background
+#### 2️⃣ Biological Background
 
 Target: Cyclooxygenase-2
 Gene: PTGS2
